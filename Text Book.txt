@@ -1,0 +1,215 @@
+﻿WORKING TITLE  (Lipstick & Code, Code & Tonic, Desparate House Coders, Midlife Coding)
+
+TODO:
+User Story / UX
+What benefit does the user get when visiting my site?
+Encourage to start coding - but what could be the next steps?
+
+
+Which jobs (job titles)?
+
+
+
+======================================================
+Nav Bar
+======================================================
+- Home
+- Coding Languages
+- Role Models
+- Feedback Form
+
+
+======================================================
+Landing Page
+======================================================
+
+<H1>
+Mission Statement: Informing and encouraging women of all ages to code.
+
+Answers to the 5 W's 
+1) What is Code?
+2) Why learning code? And: Where is it used?
+3) Where can you learn code?
+4) When (to start)?
+5) Who codes?  
+
+
+
+<H1>
+What is code?
+https://www.youtube.com/watch?v=cKhVupvyhKk
+(microsoftlearning *** What is coding?  )
+
+[take infos from this video **VIDEO on https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/  ]
+
+<p>
+The short answer is that writing code tells the computer what to do, but it’s not quite that simple.
+
+Here's a longer answer: Computer code is a set of rules or instructions. It is made up of words and numbers and when you put them in the right order it will tell your computer what you want it to do.
+
+This page is written with code.
+</p>
+
+
+
+<H2>
+Why learning code?
+
+<p>
+"Imagine a brand new language is replacing English as *the* leading international means of communication — its vocabulary is growing exponentially, soon only those who speak it fluently will be able to fully participate in the world, do business, lead, shape, innovate...
+
+Now imagine the vast majority of girls and women are not learning this language.
+
+That is the kind of crisis we are facing right now in technology.
+Computer coding is the new literacy in our thriving digital world but the number of girls and women learning the language has hit an all time low.
+
+The tech sector has transformed our lives more than any other in the last 25 years with seismic and irreversible shifts in the way we communicate, do business and organise our lives, and it promises to define the way we live well into the future."
+[https://www.huffingtonpost.com/vivienne-mayer/5-ways-to-empower-girls-t_b_10960118.html]
+</p>
+
+<image> ??
+
+
+Why?
+More than 800.000+ vacant jobs by 2020!!!
+
+
+Where is it used?
+
+<p> Everything around us. Nearly everything that has a (power) plug.
+There is an app for everything (Fitbit, social media like FB, Insta, etc.)
+IoT - Internet of Things, soon we'll have an app which controlls our washing machine, frigdge, house alarm, heating, etc.
+
+
+Branches: 
+
+> Music: making electronic music
+
+> Supermarkets: Self Check-Outs, Self-Scanner
+
+> Retail /Fashion: Gap reveals app that lets you virtually try on clothes without leaving home
+http://www.dailymail.co.uk/sciencetech/article-2906563/The-end-fitting-room-queues-Smart-mirrors-lets-virtually-try-clothes-order-drinks.html
+
+
+
+
+
+<H3>
+Where can you learn code?
+There are 3 ways to study
+1. University/Colleague,
+2. paid Bootcamps/Crash courses
+3. Self Taught
+
+
+
+
+<H4>
+When (to start)?
+Any time!
+
+If you are young: start it as soon as possible. Go to CoderDojos, take classes, etc.
+Go and check out: http://stemettes.org/  and    http://www.smartfutures.ie
+
+
+But what if you are a lady?
+You can start any time at any age!
+
+Moms can: Code
+https://www.momscancode.com/
+
+soloLearn
+Codecademy
+Udemy
+
+
+
+Have you heard about the 81 year old lady who created her very own App?
+http://mashable.com/2017/02/28/japanese-81-year-old-app/#7QcKwn7wgkqA
+
+
+
+
+
+<H5>
+Who codes?
+
+<p>
+Everyone does!
+href: Role Models (link)
+
+
+
+======================================================
+Page 1 (opens in new Tab)
+======================================================
+<Tab>
+Coding Languages
+
+http://www.codeconquest.com/what-is-coding/common-programming-languages/
+
+
+
+
+======================================================
+Page 2 (opens in new Tab)
+======================================================
+<Tab>
+Roles Models:
+
+Past
+Grace Hopper  https://en.wikipedia.org/wiki/Grace_Hopper
+ 
+Margaret Hamilton  https://en.wikipedia.org/wiki/Margaret_Hamilton_(scientist)
+
+Present
+Codergirl_ (Laura Medalia) https://www.instagram.com/codergirl_
+
+Estefannie GG  (Estefannie) https://www.instagram.com/estefanniegg
+
+MsBrandyMorgan (Brandy Morgan)  https://www.instagram.com/msbrandymorgan
+
+BigDataGal (Lillian Pierson) https://www.instagram.com/bigdatagal
+
+Coding Couple (Raf + Marty) https://www.instagram.com/codingcouple
+
+
+
+
+======================================================
+Page 3 (opens in new Tab)
+======================================================
+<Tab>
+Contact Form for Feedback
+
+** using Flexbox and Angular
+
+** using front end JS? (recommended)?
+
+
+ 
+
+
+========= FOR  L A T E R  =======================
+
+Why Do We Have So Many Languages?
+Because different languages are designed to be used for different purposes – some are useful for web development, others useful for writing desktop software, others useful for solving scientific and numeric problems, and so on.
+
+*******
+
+
+
+
+
+
+NEXT STEPS?
+
+Ok, I want to learn code. Which language shall I learn?
+That depends on what you'd like to do with it.
+Data Scientist - Python?
+Business Analyst?
+Web Designer
+Web Developer
+Unit Testing
+
+************

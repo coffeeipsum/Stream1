@@ -1,0 +1,61 @@
+﻿PROJECT GUIDELINES
+Create a website of around 4-5 pages, or (if using a single scrolling page) these should be separate page areas.
+
+[ ] Photos 
+[ ] video clip
+[ ] Audio clips
+[ ] Social Media Links!
+
+[ ]  ! Contact form with picklist values (written in client side JS) such as name, email, date, event type.
+Based on this data, the site will inform the user whether or not the date is available and the cost estimate for the event.
+All of this should be done using client-side JavaScript (no backend.)
+
+---> Include at least one form with validation. Since you are not expected to build a backend for the project,
+all this form needs to do is inform the user of whether or not the data was submitted successfully (i.e. passed validation)
+
+
+
+[ ]  main navigation and grid layout (you might want to use Flexbox or Bootstrap to accomplish this)
+
+
+
+Whenever possible, strive to use semantic HTML5 elements to better structure your HTML code.
+
+[ ] Make sure your site is as responsive as possible. You can test this by checking the site on different screen sizes and browsers.
+
+[ ] The site should contain your own custom JavaScript logic – include at least one interactive component on your site that is based on non-trivial javascript logic.
+You can write this logic either inside an Angular controller/service, or in a separate js file.
+
+---> test JS with Jasmine!
+(or test manually and add this to ReadME
+
+
+[ ] You should conduct and document tests to ensure that all of you websites functionality works well.
+Automated testing using frameworks such as Jasmine are preferable, but properly documented manual tests are also acceptable.
+
+
+[ ] Write a README.md file for your project (in Markdown format) that explains what the project does and the need that it fulfils.
+It should also describe the functionality of the project, as well as the technologies used.
+Detail how the project was deployed and tested and if some of the work was based off other code, explain what was kept and/or how it was changed to fit your need.
+A project submitted without a README.md file will FAIL.
+In addition to the README.md file, you may include in your repository supplementary documentation and/or other relevant supporting material for the assessor
+in any format that is automatically handled by web browsers, such as html, pdf, jpg, etc. Files in proprietary formats such as Microsoft doc/docx will be ignored; 
+but this is generally not a hindrance, since the vast majority of formats can be easily exported to PDF.
+
+[ ] Use Git & GitHub for version control. Each new piece of functionality should be in a separate commit.
+
+[ ] Deploy the final version of your code to a hosting platform such as GitHub Pages.
+
+
+
+ADDITIONAL ADVICE
+We advise that you create wireframes before embarking on full blown development.
+Incorporate as much as you have learned in our lessons.
+The site can also make use of CSS and JavaScript libraries/frameworks such as jQuery/Angular, just make sure you maintain a clear separation between
+the library code and your own code.
+
+
+Please refer back to your mentor to get constant feedback as you progress
+Don’t forget to use your mentor’s help. Your mentor can act as:
+Your client
+Your technical consultant
