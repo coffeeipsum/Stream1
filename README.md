@@ -1,10 +1,16 @@
+** HOME PAGE **
+
+Grid: Bootstrap
+
+Collapsable Buttons: Bootstrap Library ("btn btn-group")
+
 
 
 ** CONTACT FORM ***
 
 Logo: click on logo opens a new tab and redirects to the landing page (Home page)
 
-Contact Form: using the <"form"> tag
+Contact Form: using the <"form"> HTML5 tag
 
 Name field: required field
 
