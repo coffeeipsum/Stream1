@@ -29,20 +29,6 @@ header {
 }
 
 
-.mission-container {
-    background-color: white;
-    padding: 30px;
-    text-align: center;
-  }
-
-.splash-container {
-  position: relative;
-}
-
-.splash {
-  position: absolute;
-}
-
 nav.navigation ul {
     display: flex;
     flex-flow: row nowrap;
@@ -83,7 +69,27 @@ ul.branches li a:hover {
     transition: all .3s ease;
 }
 
+
+.item active {
+  height: 500px; 
+}
+
+.item {
+  height: 500px;
+}
   
+.content h1, h2 {
+  font-family: Tenso;
+  color:rgb(245,20,92);
+} 
+
+.row img {
+  max-width: 100%;
+}
+
+.row col-md-6 {
+  
+}
 
 footer {
   display: flex;

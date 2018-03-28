@@ -6,6 +6,13 @@ Collapsable Buttons: Bootstrap Library ("btn btn-group")
 
 
 
+ ** FEMALE ROLE MODELS **
+
+Bootstrap Carousel (from Bootstrap Lib)
+
+Grid: Bootstrap
+
+
 ** CONTACT FORM ***
 
 Logo: click on logo opens a new tab and redirects to the landing page (Home page)
